@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "minecraft:block/pumpkin_top",
+    "front": "minecraft:block/carved_pumpkin",
+    "side": "minecraft:block/pumpkin_side"
+  },
+    "overrides": [
+    {"predicate": {"custom_model_data": 2}, "model": "item/carvePumpkin/jiggy"},
+    {"predicate": {"custom_model_data": 3}, "model": "item/carvePumpkin/painting"},
+    {"predicate": {"custom_model_data": 4}, "model": "item/carvePumpkin/sussusmoghus"},
+    {"predicate": {"custom_model_data": 5}, "model": "item/carvePumpkin/pawn"},
+    {"predicate": {"custom_model_data": 6}, "model": "item/carvePumpkin/bishop"},
+    {"predicate": {"custom_model_data": 7}, "model": "item/carvePumpkin/knight"},
+    {"predicate": {"custom_model_data": 8}, "model": "item/carvePumpkin/rook"},
+    {"predicate": {"custom_model_data": 9}, "model": "item/carvePumpkin/queen"},
+    {"predicate": {"custom_model_data": 10}, "model": "item/carvePumpkin/king"}
+    ]
+}

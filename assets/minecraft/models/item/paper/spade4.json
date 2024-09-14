@@ -1,0 +1,7 @@
+
+{
+	"parent": "item/paper/CardParent",
+	"textures": {
+		"0":  "item/playCards/spade4"
+	}
+}
