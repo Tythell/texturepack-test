@@ -1,0 +1,325 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+            {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/spade1"
+        }
+      },      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/spade2"
+        }
+      },      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/spade3"
+        }
+      },      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/spade4"
+        }
+      },      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/spade5"
+        }
+      },      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/spade6"
+        }
+      },      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/spade7"
+        }
+      },      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/spade8"
+        }
+      },      {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/spade9"
+        }
+      },      {
+        "threshold": 10,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/spade10"
+        }
+      },      {
+        "threshold": 11,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/spade11"
+        }
+      },      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/spade12"
+        }
+      },      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/spade13"
+        }
+      },      {
+        "threshold": 14,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/heart1"
+        }
+      },      {
+        "threshold": 15,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/heart2"
+        }
+      },      {
+        "threshold": 16,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/heart3"
+        }
+      },      {
+        "threshold": 17,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/heart4"
+        }
+      },      {
+        "threshold": 18,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/heart5"
+        }
+      },      {
+        "threshold": 19,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/heart6"
+        }
+      },      {
+        "threshold": 20,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/heart7"
+        }
+      },      {
+        "threshold": 21,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/heart8"
+        }
+      },      {
+        "threshold": 22,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/heart9"
+        }
+      },      {
+        "threshold": 23,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/heart10"
+        }
+      },      {
+        "threshold": 24,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/heart11"
+        }
+      },      {
+        "threshold": 25,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/heart12"
+        }
+      },      {
+        "threshold": 26,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/heart13"
+        }
+      },      {
+        "threshold": 27,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/club1"
+        }
+      },      {
+        "threshold": 28,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/club2"
+        }
+      },      {
+        "threshold": 29,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/club3"
+        }
+      },      {
+        "threshold": 30,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/club4"
+        }
+      },      {
+        "threshold": 31,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/club5"
+        }
+      },      {
+        "threshold": 32,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/club6"
+        }
+      },      {
+        "threshold": 33,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/club7"
+        }
+      },      {
+        "threshold": 34,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/club8"
+        }
+      },      {
+        "threshold": 35,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/club9"
+        }
+      },      {
+        "threshold": 36,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/club10"
+        }
+      },      {
+        "threshold": 37,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/club11"
+        }
+      },      {
+        "threshold": 38,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/club12"
+        }
+      },      {
+        "threshold": 39,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/club13"
+        }
+      },      {
+        "threshold": 40,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/diamond1"
+        }
+      },      {
+        "threshold": 41,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/diamond2"
+        }
+      },      {
+        "threshold": 42,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/diamond3"
+        }
+      },      {
+        "threshold": 43,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/diamond4"
+        }
+      },      {
+        "threshold": 44,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/diamond5"
+        }
+      },      {
+        "threshold": 45,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/diamond6"
+        }
+      },      {
+        "threshold": 46,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/diamond7"
+        }
+      },      {
+        "threshold": 47,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/diamond8"
+        }
+      },      {
+        "threshold": 48,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/diamond9"
+        }
+      },      {
+        "threshold": 49,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/diamond10"
+        }
+      },      {
+        "threshold": 50,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/diamond11"
+        }
+      },      {
+        "threshold": 51,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/diamond12"
+        }
+      },      {
+        "threshold": 52,
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom:item/playcards/diamond13"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    }
+  }
+}

@@ -1,7 +1,9 @@
 {
     "pack": {
-        "pack_format": 22,
-        "supported_formats": [16, 22],
-        "description": "§7v2.4.2 §8• §7made by §cRexxStone\n§7with RPO settings by §bKikuGie"
+        "min_format": 46,
+        "max_format": 69,
+        "pack_format": 69,
+        "supported_formats": [46, 69],
+        "description": "pack yes"
     }
 }

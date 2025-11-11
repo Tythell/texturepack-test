@@ -1,0 +1,6 @@
+{
+	"parent": "custom:item/playcards/cardparent",
+	"textures": {
+		"0":  "custom:item/playcards/spade13"
+	}
+}
