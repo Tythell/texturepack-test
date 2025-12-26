@@ -5,7 +5,6 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
-      - run: |
-             git archive -o latest.zip HEAD
-             gh release upload Latest latest.zip --clobber
-             rm latest.zip
+      - run: git archive -o latest.zip HEAD
+      - run: gh release upload Latest latest.zip --clobber
+      - run: rm latest.zip
