@@ -8,7 +8,7 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v5
       - run: ls ${{ github.workspace }}
-      # - run: git archive -o latest.zip HEAD
-      # - run: gh release upload Latest latest.zip --clobber
-      # - run: rm latest.zip
+      - run: git archive -o latest.zip HEAD
+      - run: gh release upload Latest latest.zip --clobber
+      - run: rm latest.zip
 # extra c omment
