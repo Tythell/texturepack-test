@@ -16,7 +16,7 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v6
       - run: git archive -o latest.zip HEAD
-      - run: gh release upload Latest latest.zip
+      - run: gh release upload Latest latest.zip -clobber
       # - uses: softprops/action-gh-release@v1
       #   with:
       #     files: latest.zip
