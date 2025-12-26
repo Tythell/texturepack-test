@@ -16,7 +16,6 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v6
       - run: git archive -o latest.zip HEAD
-      - name: upload pack as artefact 
       - run: gh release upload Latest latest.zip
       # - uses: softprops/action-gh-release@v1
       #   with:
