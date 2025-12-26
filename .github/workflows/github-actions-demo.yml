@@ -10,9 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
-        uses: actions/checkout@v5
-      - run: |
-            git archive -o latest.zip HEAD
-            ls ${{ github.workspace }}
-            gh release upload Latest latest.zip --clobber
+        uses: actions/checkout@v6
+      - run: git archive -o latest.zip HEAD
+      - name: upload pack as artefact 
+      - uses: softprops/action-gh-release@v2
+      - if: github_ref_type == 'Latest'
+        files: latest.zip
 # extra c omment
