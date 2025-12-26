@@ -5,7 +5,9 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
-      - run: pwd
-      - run: git archive -o latest.zip HEAD
-      - run: gh release upload Latest latest.zip --clobber
-      - run: rm latest.zip
+      - name: Check out repository code
+        uses: actions/checkout@v5
+      - run: ls ${{ github.workspace }}
+      # - run: git archive -o latest.zip HEAD
+      # - run: gh release upload Latest latest.zip --clobber
+      # - run: rm latest.zip
