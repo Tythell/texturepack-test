@@ -1,9 +1,102 @@
 {
-    "pack": {
-        "min_format": 46,
-        "max_format": 69,
-        "pack_format": 75,
-        "supported_formats": [46, 75],
-        "description": "pack yes"
-    }
+	"pack": {
+		"pack_format": 15,
+		"supported_formats": [
+			15,
+			88
+		],
+		"min_format": 15,
+		"max_format": 88,
+		"description": [
+			{
+				"text": "§lS",
+				"color": "#f0c636"
+			},
+			{
+				"text": "§lp",
+				"color": "#26cc85"
+			},
+			{
+				"text": "§la",
+				"color": "#268bcc"
+			},
+			{
+				"text": "§lr",
+				"color": "#dc76db"
+			},
+			{
+				"text": "§lk",
+				"color": "#aa6cea"
+			},
+			{
+				"text": "§ll",
+				"color": "#ea9dd0"
+			},
+			{
+				"text": "§le",
+				"color": "#9de9ea"
+			},
+			{
+				"text": "§ls",
+				"color": "#e78d58"
+			},
+			{
+				"text": " - Textures/l10n\nCreated by ",
+				"color": "gray"
+			},
+			{
+				"text": "Stardust Labs",
+				"color": "#683edd"
+			}
+		]
+	},
+	"overlays": {
+		"entries": [
+			{
+				"formats": {
+					"min_inclusive": 32,
+					"max_inclusive": 88
+				},
+				"directory": "1-20-5-overlay",
+				"min_format": 32,
+				"max_format": 88
+			},
+			{
+				"formats": {
+					"min_inclusive": 56,
+					"max_inclusive": 88
+				},
+				"directory": "1-21-4-overlay",
+				"min_format": 56,
+				"max_format": 88
+			},
+			{
+				"formats": {
+					"min_inclusive": 69,
+					"max_inclusive": 88
+				},
+				"directory": "1-21-9-overlay",
+				"min_format": 69,
+				"max_format": 88
+			},
+			{
+				"formats": {
+					"min_inclusive": 76,
+					"max_inclusive": 88
+				},
+				"directory": "26-1-overlay",
+				"min_format": 76,
+				"max_format": 88
+			},
+			{
+				"formats": {
+					"min_inclusive": 15,
+					"max_inclusive": 22
+				},
+				"directory": "wolf-overlay",
+				"min_format": 15,
+				"max_format": 22
+			}
+		]
+	}
 }
